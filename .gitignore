@@ -79,6 +79,14 @@ web_modules/
 .env.production.local
 .env.local
 
+# local files
+clip_*
+transition_*
+intro.mp3
+output.mp3
+queries.txt
+topics.txt
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
